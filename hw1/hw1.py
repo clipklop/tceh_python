@@ -4,14 +4,14 @@
 import random
 
 riddle_list = {
-    "What is best material music carrier?": "vinyl",
-    "What is the first word that baby supposed to say first?": "mama",
-    "Famous animal of Schrodinger expirement": "cat",
+    "What is best format/material carrier for music tracks?": "vinyl",
+    "What is the word that baby supposed to say first?": "mama",
+    "Famous animal of Schrodinger expirement?": "cat",
     "How americans calls a Football game?": "soccer",
     "What is name of mobile operation system developed by Google inc?": "android",
     "'The winter is coming!' - which family House says so?": "starks",
     "Finish one of the best advices 'Don't invent the ...'": "wheel",
-    "At the dawn of internet we used to chat in IRC, but every geeks uses what?": "slack",
+    "At the dawn of internet we used to chat in IRC, but nowadays every geeks uses what?": "slack",
     "What is the name of Linux inventor?": "linus",
     "What is symbol operator of 'intersection' of Python data type 'set'": "&",
  }
