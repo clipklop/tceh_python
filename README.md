@@ -1,2 +1,6 @@
-#tceh python homeworks
-added 2nd homework...finaly
+
+# tceh python lessons & homeworks
+
+## here we go again...
+
+### round 3...fight!
